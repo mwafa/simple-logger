@@ -1,0 +1,2 @@
+1519445161474	sensor	65	Sat Feb 24 2018 11:06:01 GMT+0700 (SE Asia Standard Time)
+1519445167720	sensor	65	Sat Feb 24 2018 11:06:07 GMT+0700 (SE Asia Standard Time)

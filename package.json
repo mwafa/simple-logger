@@ -1,0 +1,9 @@
+{
+    "name": "PROJECT NAME",
+    "version": "0.0.1",
+    "author": "YOUR NAME",
+    "dependencies": {
+        "express": "^4.16.2",
+        "mysql": "^2.15.0"
+    }
+}
